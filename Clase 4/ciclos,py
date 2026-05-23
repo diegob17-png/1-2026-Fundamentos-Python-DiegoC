@@ -1,0 +1,10 @@
+Junio = 2 
+Agosto = 1 
+mes = "Agosto"
+if mes == "Junio":
+    print (f"{junio} personas cumplen anos en  Junio")
+elif mes == "Agosto":
+    if Agosto == 1:
+        print (f"{Agosto} persona cumple anos en Agosto")
+    else:
+          print (f"{Agosto} personas cumplen anos en Agosto")
